@@ -1,0 +1,41 @@
+<html>
+<head>
+<link rel="stylesheet" href="C:\Users\SRIVASTAV\Desktop\cv.css">
+<h1><center><B><U>CURRICULUM VITAE</U></B></center></h1>
+</head>
+<hr />
+<img src="C:\Users\SRIVASTAV\Desktop\WhatsApp Image 2023-12-23 at 21.57.00_e9b1871d.jpg" length="100" width="100" align="right"> 
+<body bgcolor="black">
+<p>
+<h4><font color ="red">SRI VASTAV</h4>
+<br>
+email:veerepallisrivastav@gmail.com
+<br>
+Phone no:7993691395
+<br>
+Adress:sambasiva heights,vijyapuri colony near jkc college road,Guntur<br>
+<hr />
+<hr />
+<h3><U>EDUCATIONAL QUALIFICATIONS:</U></h3><br>
+10th standard from VIVA
+<br>
+12th standard from VIVA
+<br>
+B.TECH from Woxsen University
+<br>
+<h3><U>COMPUTER SKILLS:</U></h3>
+<br>
+JAVA<br>
+Python<br>
+HTML<br>
+<h3><U>LANGUAGES KNOWN</U></h3><br>
+English<br>
+Telugu<br>
+Hindi
+</p>
+</body>
+</html>
+
+
+
+
